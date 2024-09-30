@@ -1,3 +1,4 @@
+# Image Processing and Analysis Suite
 The "Image Processing and Analysis Suite" is a versatile project that implements various image processing techniques to explore and manipulate digital images. This suite includes functions for calculating image compression rates, adjusting brightness, modifying specific color areas, simulating JPEG compression, and fully downsampling image components, all using the YCbCr color space for precise control.
 
 Key Features:
